@@ -6,7 +6,7 @@ Il utilise un lecteur RFID RC522 un microcontrôleur ESP8266 et une LED RGB pour
 ## 🎥 Visualisation
 
 <div style="text-align: center;">
-<img src="screenshoot14.png" width="65%" alt="Aperçu du Montage"/>
+<img src="screenshoot8.png" width="65%" alt="Aperçu du Montage"/>
 </div>
 
 ---
